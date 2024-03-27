@@ -23,7 +23,7 @@ nav{
 }
 
 .header {background: #fff;}
-.header .name {background:#4444a8 url(/static/images/aios_divider.svg) top left no-repeat; padding: 30px; color: #fff; height: 100px;}
+.header .name {background:#4444a8 url(https://cdn.jsdelivr.net/gh/NumeroTec/ntec_cdn@main/static/images/aios_divider.svg) top left no-repeat; padding: 30px; color: #fff; height: 100px;}
 .white {background: #fff;}
 .breadcrumb { background: orange;}
 .breadcrumb .tablist ul {
