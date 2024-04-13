@@ -279,7 +279,6 @@ input[type=text]:focus {
 }
 
 .btn{
-  font-weight: bold;
   border-radius: 25px;
   /*font-family: BeVietnamPro-SemiBold;*/
   letter-spacing: 0;
